@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/recipe-box/static/css/main.5f361e03.chunk.css",
-    "main.js": "/recipe-box/static/js/main.60940f92.chunk.js",
-    "main.js.map": "/recipe-box/static/js/main.60940f92.chunk.js.map",
-    "runtime-main.js": "/recipe-box/static/js/runtime-main.7648288e.js",
-    "runtime-main.js.map": "/recipe-box/static/js/runtime-main.7648288e.js.map",
-    "static/js/2.38829ac3.chunk.js": "/recipe-box/static/js/2.38829ac3.chunk.js",
-    "static/js/2.38829ac3.chunk.js.map": "/recipe-box/static/js/2.38829ac3.chunk.js.map",
-    "index.html": "/recipe-box/index.html",
-    "precache-manifest.2b543600b776c7a0792bb83cc6f38a7c.js": "/recipe-box/precache-manifest.2b543600b776c7a0792bb83cc6f38a7c.js",
-    "service-worker.js": "/recipe-box/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/recipe-box/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.38829ac3.chunk.js.LICENSE.txt": "/recipe-box/static/js/2.38829ac3.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/recipe-box/static/media/logo.5d5d9eef.svg"
+    "main.css": "/recipe_box/static/css/main.5f361e03.chunk.css",
+    "main.js": "/recipe_box/static/js/main.b2ac1ae0.chunk.js",
+    "main.js.map": "/recipe_box/static/js/main.b2ac1ae0.chunk.js.map",
+    "runtime-main.js": "/recipe_box/static/js/runtime-main.2423b302.js",
+    "runtime-main.js.map": "/recipe_box/static/js/runtime-main.2423b302.js.map",
+    "static/js/2.38829ac3.chunk.js": "/recipe_box/static/js/2.38829ac3.chunk.js",
+    "static/js/2.38829ac3.chunk.js.map": "/recipe_box/static/js/2.38829ac3.chunk.js.map",
+    "index.html": "/recipe_box/index.html",
+    "precache-manifest.55fb677e45ff033ebfebb3e6a28b7698.js": "/recipe_box/precache-manifest.55fb677e45ff033ebfebb3e6a28b7698.js",
+    "service-worker.js": "/recipe_box/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/recipe_box/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.38829ac3.chunk.js.LICENSE.txt": "/recipe_box/static/js/2.38829ac3.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/recipe_box/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.7648288e.js",
+    "static/js/runtime-main.2423b302.js",
     "static/js/2.38829ac3.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.60940f92.chunk.js"
+    "static/js/main.b2ac1ae0.chunk.js"
   ]
 }
