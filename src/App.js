@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <!--img src={logo} className="App-logo" alt="logo" />
+        /*<img src={logo} className="App-logo" alt="logo" />*/
         <h3>Welcome to Trivia!</h3>
         <p>(After selecting difficulty level and category,) press start to begin.</p>
         <p>
